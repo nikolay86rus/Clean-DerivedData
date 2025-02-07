@@ -1,6 +1,6 @@
 - unzip
 - move to Applications
-- to use hust call open Spotlight (for me `CMD+Space`) and find `clean deriveddata` (for me just fine to write `cle`)
+- for using just open Spotlight (for me `CMD+Space`) and find `clean deriveddata` (for me just fine to write `cle`)
 
 Application from apple Automator inside script:
 ```
